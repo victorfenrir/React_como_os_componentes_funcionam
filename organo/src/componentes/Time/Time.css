@@ -1,4 +1,5 @@
 .time {
+    position: relative;
     text-align: center;
     padding: 32px;
     background-blend-mode: multiply;
@@ -18,3 +19,10 @@
     margin-top: 32px;
     flex-wrap: wrap;
 }
+
+.input-cor {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
